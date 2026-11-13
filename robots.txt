@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://havanur.sanchaya.net/sitemap.xml

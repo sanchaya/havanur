@@ -1,29 +1,7 @@
-# Havanur Digital Kannada Books
+# ಡಾ. ಶ್ರೀನಿವಾಸ ಹಾವನೂರ ಡಿಜಿಟಲ್ ಕನ್ನಡ ಪುಸ್ತಕಗಳು
 
-Havanur Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+Digital archive hosted at **https://havanur.sanchaya.net**
 
-Check it out : https://sanchaya.org & https://sanchifoundation.org
+Published by ಸ್ವಾಗತ ಸಮಿತಿ, ೪೨ನೇ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ, ಮಣಿಪಾಲ, ದ. ಕ.. Items come from Internet Archive query:
 
-## HOW TO ADD YOUR PUBLICATION
-
-If you find a nice ebook about kannada, feel free to contribute and add it in a few steps :
-
-- Paste the informations into the JSON file.
-- Please include a .png file for the cover : less than 100Ko.**
-- Make a pull request.
-
-Alternatively, you can send us an email with book infos : info@sanchaya.org
-
-Thanks per advance !
-
-## HISTORY
-
-
-## Licence
-
-The Digital Kannada Books website is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
-
-Each book has its own licence, see book homepage.
-
-## About us
-# Havanur
+    identifier:(haridasaru* OR kannada* OR "ankrugranthasuch0000drsh_r2d5" OR "avarumathudevakk0000iran_x1n3" OR "drferdinandkitte0000drsh_n2j6" OR "drslbhairappaava0000drsh_z4j5" OR "galaganathamasta0000drsh_v9t2" OR "gandhamattukallu0000drsh_h6v4" OR "govindapaisamagr0000drsh_v4c7" OR "hyderabadineveer0000drsh_n6m8" OR "kadambarikaragal0000drsh_t4v7" OR "kuchodyadakatheg0000drsh_k3x1" OR "madhyakaaleenaka0000drsh_s1a6" OR "mareyalagadamumb0000drsh_e4e9" OR "ondishtulaghuond0000drsh_f8e1" OR "praachinalekhana0000drsh_v6q0" OR "prathamakannadan0000drsh_r2k0" OR "purandaradasaraj0000drsh_e7z1" OR "reverenddoctorfe0000drsh_q0l0" OR "reverendfkittel0000drsh_x3h1" OR "shasanapitamahab0000drsh_z6o9" OR "shrinivasahavano0000drsl_i9q3" OR "shrivadirajatirt0000drsh_t6z2" OR "tungabhadrenaadi0000drsh_l5x1" OR "padigaaruvenkata0000drsh_j4q2" OR "kanakadasarakeer0000drsh_q4z9" OR "samkathana0000drsh_g4v1" OR "srivadirajateert0000drsh_z8b6" OR "srirajapurohitha0000drsh_f8e9" OR "pamparannarulite0000drsh_f8t1" OR "hosagannadaaruno0000drsh_e8g6" OR "samagraharidasav0000drsh_s8j3" OR "kumudinihagooita0000drsh" OR "sodemathadashriv0000drsh" OR "drferdinandkitte0000drsh_i4a4" OR "srirameshwaramed0000drsh" OR "srestapatrikodya0000drsh" OR "patragaluchitris0000drsh" OR "matangihaguitara0000drsh" OR "maadimadidavaru0000basa" OR "vignayanakalikem0000sanj" OR "himdumuslimmattu0000late" OR "odugarodaneyahar0000late" OR "hattiyangadinara0000drsh")
